@@ -1,0 +1,59 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    font-size: 45px;
+    
+}
+li,h1,ul{
+    display: inline-block;
+}
+ul{
+    margin-left: 900px;
+}
+li{
+    color: gray;
+}
+li:hover{
+    color: white;
+}
+input{
+    width: 1400px;
+    padding: 5px;
+    margin-left: 230px;
+    
+}
+.one{
+    display: inline-block;
+    border: 20px;
+    border-style: solid;
+    border-color:black;
+}
+.two{
+    font-size: 50px;
+}
+.three{
+    display: inline-block;
+    border: 20px;
+    border-style:solid;
+    border-color: red;
+
+}
+h2{
+    color: black;
+}
+h2:hover{
+    color: blue;
+}
+.nig{
+    display:inline-block;
+    
+}
+.four{
+    display: inline;
+}
+    
+
+
+
+
